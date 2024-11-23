@@ -5,7 +5,7 @@ function ContactUs() {
   return (
     <>
       <Header />
-      <div>ContactUs</div>;
+      <div>ContactUs</div>
     </>
   );
 }
